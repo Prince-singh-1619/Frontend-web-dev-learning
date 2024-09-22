@@ -4,7 +4,12 @@
     box-sizing:border-box;
     font-family:'Merriweather sans', sans-serif;
  }
-
+body{
+    zoom: 125%;
+    display: flex;
+    justify-content: center;
+    overflow:hidden;
+}
 :root {
     --colorDark1: #112D4E;
     --colorDark2: #3F72AF;
